@@ -25,3 +25,7 @@
    24  minikube start --driver=docker
    25  minikube status
    26  history
+
+
+
+ssh -T git@github.com
